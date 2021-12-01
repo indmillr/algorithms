@@ -1,2 +1,2 @@
 # algorithms
-basic algorithm scripting
+a sandbox file for basic algorithm scripting
