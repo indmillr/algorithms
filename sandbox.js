@@ -4,8 +4,6 @@ function convertToF(celcius) {
   return fahrenheit;
 }
 
-convertToF(30);
-
 // Reverse a String
 function reverseString(str) {
   let revStr = "";
@@ -15,4 +13,11 @@ function reverseString(str) {
   return revStr;
 }
 
-reverseString("hello");
+// Factorialize a Number
+function factorialize(num) {
+  if (num === 0) {
+    return 1;
+  }
+  return num * factorialize(num - 1);
+}
+factorialize(5);
