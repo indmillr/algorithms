@@ -1,2 +1,2 @@
 # algorithms
-a sandbox file for basic algorithm scripting
+A collection of algorithms that are handy, reusable, or otherwise nifty
