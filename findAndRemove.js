@@ -1,6 +1,6 @@
 // Provide an initial array. Args will search that array and remove all elements that match args
 
-function finAndRemove(arr) {
+function findAndRemove(arr) {
   // create an array of what needs to be removed
   let removeItems = Object.values(arguments).slice(1);
   for (let i = 0; i < arr.length; i++) {
