@@ -1,3 +1,4 @@
+// Sum all Prime numbers up to a given number
 function sumPrimes(num) {
   // Use isPrime to check if Prime
   function isPrime(num) {
